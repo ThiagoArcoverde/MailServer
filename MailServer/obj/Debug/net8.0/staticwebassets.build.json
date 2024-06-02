@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GFLR/hkIx2WMkFBjjIYqH9sG/6zlttnX2OXF18dJ4ac=",
+  "Source": "MailServer",
+  "BasePath": "_content/MailServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
